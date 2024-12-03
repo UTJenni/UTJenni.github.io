@@ -2,7 +2,7 @@
 
 # **Research Project: Gender, Antidepressant Use, and Relationship Outcomes**
 
-How Does Gender and Antidepressant Use Impact Relationships, Sex, and Commitment?
+*How Does Gender and Antidepressant Use Impact Relationships, Sex, and Commitment?*
 
 --------------------------------------------------------------------------------
 
@@ -17,10 +17,10 @@ critical markers of relational health, yet their intersections remain underexplo
 
 ### **Why This Matters:**
 
--   **Relational Health:** Relationship satisfaction, sexual satisfaction, and commitment are foundational to relational well-being.\
--   **Impact of Antidepressants:** Previous studies show antidepressants can affect sexual and relationship satisfaction (Baldwin & Foong, 2018; Meyer, 2007).\
--   **Gender Differences:** Research indicates that antidepressants may impact genders differently (Keers & Aitchison, 2010).\
--   **Research Gap:** Little is known about the intersection of gender and antidepressant use on these relational factors..
+-   **Relational Health:** Relationship satisfaction, sexual satisfaction, and commitment are foundational to relational well-being.
+-   **Impact of Antidepressants:** Previous studies show antidepressants can affect sexual and relationship satisfaction (Baldwin & Foong, 2018; Meyer, 2007).
+-   **Gender Differences:** Research indicates that antidepressants may impact genders differently (Keers & Aitchison, 2010).
+-   **Research Gap:** Little is known about the intersection of gender and antidepressant use on these relational factors.
 
 ------------------------------------------------------------------------
 
@@ -30,26 +30,26 @@ Basic description of the data: what dataset is used, sample size,
 how the data is collected in the original study. 
 Clearly state how the analytic method and variables used match the question.
 
--   **Source:** National Couples’ Health and Time Study (NCHTS), 2020–2021 (ICPSR Study 38417; Dush et al., 2024).\
--   **Sample Size:** 3,508 U.S. adults.\
+-   **Source:** National Couples’ Health and Time Study (NCHTS), 2020–2021 (ICPSR Study 38417; Dush et al., 2024).
+-   **Sample Size:** 3,508 U.S. adults.
 -   **Demographics:**
-    -   **Gender:** 49% Men, 47% Women, 4% Other.\
-    -   **Antidepressant Use:** 19% reported taking antidepressants.\
+    -   **Gender:** 49% Men, 47% Women, 4% Other.
+    -   **Antidepressant Use:** 19% reported taking antidepressants.
     -   **Sexual Orientation:** 58% identified as heterosexual.
 
 ### **Measures**
 
-Three relational outcomes were examined:\
-1. **Relationship Satisfaction**\
-  - "Please indicate the level of happiness, all things considered, in your relationship?" *(1 = Extremely Unhappy, 6 = Extremely Happy)*\
-  - "I have a warm and comfortable relationship with my spouse/partner?" *(1 = Not at all true, 6 = Completely True)*\
-  - "How rewarding is your relationship with your spouse/partner?" *(1 = Not at all rewarding, 6 = Completely Rewarding)*\
-  - "In general, how satisfied are you with your relationship?" *(1 = Not at all satisfied, 6 = Completely Satisfied)*\
+Three relational outcomes were examined:
+1. **Relationship Satisfaction**
+  - "Please indicate the level of happiness, all things considered, in your relationship?" *(1 = Extremely Unhappy, 6 = Extremely Happy)*
+  - "I have a warm and comfortable relationship with my spouse/partner?" *(1 = Not at all true, 6 = Completely True)*
+  - "How rewarding is your relationship with your spouse/partner?" *(1 = Not at all rewarding, 6 = Completely Rewarding)*
+  - "In general, how satisfied are you with your relationship?" *(1 = Not at all satisfied, 6 = Completely Satisfied)*
 
-2.  **Sexual Satisfaction**\
+2.  **Sexual Satisfaction**
   - "How satisfied are you with your sexual relationship with your partner?" *(1 = Not at All Satisfied, 6 = Completely Satisfied)*
 
-3.  **Commitment**\
+3.  **Commitment**
   - "How committed are you to your relationship?" *(1 = Not at All Commited, 6 = Completely Commited)*
 
 ### **Analytic Approach**
@@ -71,25 +71,83 @@ Men on antidepressants were less sexually satisfied and less committed than wome
 Women, whether on antidepressants or not, had high levels of satisfaction and commitment.
 
 1.  **Relationship Satisfaction**
-    -   Men on antidepressants reported lower relationship satisfaction compared to men not on antidepressants (*p* = .049).\
+    -   Men on antidepressants reported lower relationship satisfaction compared to men not on antidepressants (*p* = .049).
     -   Women’s relationship satisfaction was consistently high, regardless of antidepressant use.
 2.  **Sexual Satisfaction**
-    -   Women on antidepressants reported higher sexual satisfaction than men on antidepressants (*p* \< .0001).\
+    -   Women on antidepressants reported higher sexual satisfaction than men on antidepressants (*p* \< .0001).
     -   Men on antidepressants had lower sexual satisfaction compared to men not on antidepressants (*p* = .0002).
 3.  **Commitment**
-    -   Women on antidepressants were more committed than men on antidepressants (*p* \< .001).\
+    -   Women on antidepressants were more committed than men on antidepressants (*p* \< .001).
     -   Men on antidepressants were less committed than men not on antidepressants (*p* \< .001).
 
 
 ------------------------------------------------------------------------
 
-# Impact
+## **Impact**
 
-## References
-- Original Dataset [ICPSR Study 38417](https://www.icpsr.umich.edu/web/DSDR/studies/38417) (Dush et al., 2024)
 
-- Analtyic Codes (Link)
+Explain why this research is important, who it might benefit, 
+and how people in the applied setting might be able to use your findings.
+Claims are based on the results and the nature of the data, and not overly generalized.
 
-## Citations
+### **Why These Findings Matter:**
 
-- (Dush et al., 2024)
+1.  **Sexual Dysfunction:** Supports existing research that men experience higher rates of sexual dysfunction with antidepressant use, which may impact relational health (Higgins et al., 2010).
+2.  **Emotional Dysfunction:** Emotional blunting associated with antidepressants may reduce men’s engagement and connection in relationships.
+3.  **Gender Differences:** Women’s relational health appears less affected by antidepressant use, suggesting potential protective factors or differences in coping mechanisms.
+
+### **Practical Applications:**
+
+-   Clinicians could use these findings to guide conversations with patients about the relational side effects of antidepressants, especially for men.
+-   Couples therapy could address challenges like emotional blunting and sexual dysfunction to mitigate relational impacts.
+
+
+
+
+
+Sexual Dysfunction: Results for sexual satisfaction support research that a larger percentage of men may experience sexual dysfunction more than women. (Higgins, et al., 2010)
+
+Emotional Dysfunction: Emotional blunting may contribute to reduced engagement or connection in relationships.
+
+Gendered Protective Factors / Vulnerabilities: Antidepressant use did not significantly affect women’s scores. This raises questions about potential protective factors and/or differences in how women navigate these side effects.
+
+------------------------------------------------------------------------
+
+
+
+## **Future Directions**
+
+1.  **Antidepressant Factors:** Investigate the role of specific antidepressant types, dosages, and duration of use in relational outcomes.
+2.  **Gender and Sexual Identity:** Collect more nuanced data on diverse gender identities and sexual orientations to understand their unique experiences.
+3.  **Physical and Emotional Dysfunction:** Explore how sexual dysfunction and emotional blunting interact with relationship satisfaction and commitment.
+4.  **Relationship Context:** Examine variables like relationship duration, partner involvement, and the role of sexual and emotional dynamics (e.g., single vs. partnered sex, therapy).
+5.  **Longitudinal Studies:** Conduct daily diary or dyadic studies to capture the evolution of relational dynamics over time.
+
+------------------------------------------------------------------------
+
+## **Additional Resources**
+
+-   **Original Dataset:** [NCHTS Dataset (ICPSR Study 38417)](https://www.icpsr.umich.edu/web/ICPSR/studies/38417)
+-   **Analytic Code:** [GitHub Repository](https://github.com/UTJenni/PSY-329---My-Data-Project/blob/main/PSY329---My-Dataset-Project.md)
+
+------------------------------------------------------------------------
+
+## **Citations**
+
+-   Baldwin, D. S., & Foong, T. (2018). The impact of antidepressants on sexual function. *Journal of Clinical Psychopharmacology*.
+-   Dush, C. M., et al. (2024). National Couples’ Health and Time Study (NCHTS), ICPSR Study 38417.
+-   Higgins, A., et al. (2010). Sexual dysfunction in antidepressant use: Gender differences in prevalence. *Psychological Medicine*.
+-   Keers, R., & Aitchison, K. J. (2010). Gender differences in antidepressant response. *Journal of Affective Disorders*.
+-   Meyer, D. L. (2007). Antidepressants and relationship satisfaction. *Journal of Family Psychology*.
+
+------------------------------------------------------------------------
+
+Must attribute credits and hyperlink to the original dataset, hyperlink to your analytic codes 
+(e.g., your md or rmd). The overall presentation is digestible, professional, and concise. 
+No erroneous links or photos. The language is accessible and does not require expertise in psychology to understand. 
+No jargon is used (e.g., IV, DV, or moderator). 
+The only exception is mentioning the specific analysis like ANOVA or regression, 
+but your focus should be the purpose of the analysis (e.g., 
+I tested the relationship between A and B while taking into account C and D by using multiple regression) 
+rather than flexing those terms as fancy jargon.
+

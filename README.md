@@ -12,7 +12,7 @@ Welcome to my portfolio page! 👋
 
 --------------------------------------------------------------------------------
 
-## **Objectives**
+### **Objectives**
 
 The goal of this project is to explore how gender and antidepressant use influence 
 relationship satisfaction, sexual satisfaction, and commitment. These factors are 
@@ -20,18 +20,21 @@ critical markers of relational health, yet their intersections remain underexplo
 
 ### **Why This Matters**
 
-#### Relational Health\
+**Relational Health**
 Relationship satisfaction, sexual satisfaction, and commitment are foundational to relational well-being.
-#### Impact of Antidepressants\
+
+**Impact of Antidepressants**
 Previous studies show antidepressants can affect sexual and relationship satisfaction[^1].
-#### Gender Differences\
+
+**Gender Differences**
 Research indicates that antidepressants may impact genders differently (Keers & Aitchison, 2010).
-#### Research Gap\
+
+**Research Gap**
 Little is known about the intersection of gender and antidepressant use on these relational factors.
 
 ------------------------------------------------------------------------
 
-## **Approach**
+### **Approach**
 
 Basic description of the data: what dataset is used, sample size, 
 how the data is collected in the original study. 

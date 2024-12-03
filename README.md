@@ -1,8 +1,7 @@
 --------------------------------------------------------------------------------
 
 # **Research Project: Gender, Antidepressant Use, and Relationship Outcomes**
-
-*How Does Gender and Antidepressant Use Impact Relationships, Sex, and Commitment?*
+How Does Gender and Antidepressant Use Impact Relationships, Sex, and Commitment?
 
 --------------------------------------------------------------------------------
 
@@ -63,7 +62,6 @@ and commitment based on gender and antidepressant use, accounting for key demogr
 
 The main takeaways are clear. Interpretation is accurate and careful. Results are supplemented with graphs.
 
-
 ### **Key Results**
 
 Men on antidepressants were less sexually satisfied and less committed than women on antidepressants.
@@ -80,11 +78,9 @@ Women, whether on antidepressants or not, had high levels of satisfaction and co
     -   Women on antidepressants were more committed than men on antidepressants (*p* \< .001).
     -   Men on antidepressants were less committed than men not on antidepressants (*p* \< .001).
 
-
 ------------------------------------------------------------------------
 
 ## **Impact**
-
 
 Explain why this research is important, who it might benefit, 
 and how people in the applied setting might be able to use your findings.
@@ -92,33 +88,28 @@ Claims are based on the results and the nature of the data, and not overly gener
 
 ### **Why These Findings Matter:**
 
-1.  **Sexual Dysfunction:** Supports existing research that men experience higher rates of sexual dysfunction with antidepressant use, which may impact relational health (Higgins et al., 2010).
-2.  **Emotional Dysfunction:** Emotional blunting associated with antidepressants may reduce men’s engagement and connection in relationships.
-3.  **Gender Differences:** Women’s relational health appears less affected by antidepressant use, suggesting potential protective factors or differences in coping mechanisms.
+1.  **Sexual Dysfunction:** Results for sexual satisfaction complements research that a larger percentage of men experience sexual dysfunction than women. (Higgins, et al., 2010)
+2.  **Emotional Dysfunction:** Results for relationship satisfaction and
+commitment follows previous findings that men experience more
+emotional blunting than women which may contribute to reduced
+engagement or connection in relationships. (Goodwin, et al. 2017)
+3.  **Protective Factors:** Antidepressant use did not significantly affect
+women’s scores. Research indicates that women self-report low
+perceived distress with both sexual dysfunction and emotional blunting,
+raising questions about potential gender differences / protective factors
+in navigating these side effects. (Lorenz, et al., 2019; Goodwin, et al., 2017)
 
 ### **Practical Applications:**
 
 -   Clinicians could use these findings to guide conversations with patients about the relational side effects of antidepressants, especially for men.
 -   Couples therapy could address challenges like emotional blunting and sexual dysfunction to mitigate relational impacts.
 
-
-
-
-
-Sexual Dysfunction: Results for sexual satisfaction support research that a larger percentage of men may experience sexual dysfunction more than women. (Higgins, et al., 2010)
-
-Emotional Dysfunction: Emotional blunting may contribute to reduced engagement or connection in relationships.
-
-Gendered Protective Factors / Vulnerabilities: Antidepressant use did not significantly affect women’s scores. This raises questions about potential protective factors and/or differences in how women navigate these side effects.
-
 ------------------------------------------------------------------------
-
-
 
 ## **Future Directions**
 
 1.  **Antidepressant Factors:** Investigate the role of specific antidepressant types, dosages, and duration of use in relational outcomes.
-2.  **Gender and Sexual Identity:** Collect more nuanced data on diverse gender identities and sexual orientations to understand their unique experiences.
+2.  **Gender and Sexual Identity:** Collect more data on diverse gender identities and sexual orientations to understand their unique experiences.
 3.  **Physical and Emotional Dysfunction:** Explore how sexual dysfunction and emotional blunting interact with relationship satisfaction and commitment.
 4.  **Relationship Context:** Examine variables like relationship duration, partner involvement, and the role of sexual and emotional dynamics (e.g., single vs. partnered sex, therapy).
 5.  **Longitudinal Studies:** Conduct daily diary or dyadic studies to capture the evolution of relational dynamics over time.

@@ -7,7 +7,7 @@ Welcome to my portfolio page! 👋
 
 --------------------------------------------------------------------------------
 
-# **Research Projects: Gender, Antidepressant Use, and Relationship Outcomes**
+# **Research Project: Gender, Antidepressant Use, and Relationship Outcomes**
 ### How Does Gender and Antidepressant Use Impact Relationships, Sex, and Commitment?
 
 --------------------------------------------------------------------------------
@@ -23,7 +23,9 @@ critical markers of relational health, yet their intersections remain underexplo
 **Relational Health:** Relationship satisfaction, sexual satisfaction, and commitment are foundational to relational well-being.
 
 **Impact of Antidepressants:** Previous studies show antidepressants can affect sexual and relationship satisfaction(Baldwin & Foong, 2018; Meyer 2007).
+
 **Gender Differences:** Research indicates that antidepressants may impact genders differently (Keers & Aitchison, 2010).
+
 **Research Gap:** Little is known about the intersection of gender and antidepressant use on these relational factors.
 
 ------------------------------------------------------------------------
@@ -34,12 +36,14 @@ Basic description of the data: what dataset is used, sample size,
 how the data is collected in the original study. 
 Clearly state how the analytic method and variables used match the question.
 
--   **Source:** National Couples’ Health and Time Study (NCHTS), 2020–2021 (ICPSR Study 38417)[^2].
--   **Sample Size:** 3,508 U.S. adults.
--   **Demographics:**
-    -   **Gender:** 49% Men, 47% Women, 4% Other.
-    -   **Antidepressant Use:** 19% reported taking antidepressants.
-    -   **Sexual Orientation:** 58% identified as heterosexual.
+**Source:** National Couples’ Health and Time Study (NCHTS), 2020–2021 (ICPSR Study 38417) (Dush et al., 2024).
+
+**Sample Size:** 3,508 U.S. adults.
+
+**Demographics:**  
+  - **Gender:** 49% Men, 47% Women, 4% Other.
+  - **Antidepressant Use:** 19% reported taking antidepressants.
+  - **Sexual Orientation:** 58% identified as heterosexual.
 
 ### **Measures**
 

@@ -33,7 +33,9 @@ critical markers of relational health, yet their intersections remain underexplo
 ### **Approach**
 
 **Source:** National Couples’ Health and Time Study (NCHTS), 2020–2021 (ICPSR Study 38417) (Dush et al., 2024).
+
 **Sample Size:** 3,508 U.S. adults.
+
 **Demographics:**  
   - **Gender:** 49% Men, 47% Women, 4% Other.
   - **Antidepressant Use:** 19% reported taking antidepressants.
@@ -63,25 +65,23 @@ and commitment based on gender and antidepressant use, accounting for key demogr
 
 ## **Findings**
 
-The main takeaways are clear. Interpretation is accurate and careful. Results are supplemented with graphs.
-
 ### **Key Results**
 
-Men on antidepressants were less sexually satisfied and less committed than women on antidepressants.
+Men on antidepressants were **less sexually satisfied** and **less committed** than women on antidepressants.
 
-Women, whether on antidepressants or not, had high levels of satisfaction and commitment.
+Women, whether on antidepressants or not, had **high levels of satisfaction** and **commitment**.
 
 1.  **Relationship Satisfaction**
-    -   Men on antidepressants reported lower relationship satisfaction compared to men not on antidepressants (*p* = .049).
-    -   Women’s relationship satisfaction was consistently high, regardless of antidepressant use.
+    -   **Men** on antidepressants **reported lower relationship satisfaction** compared to men not on antidepressants (*p* = .049).
+    -   **Women’s** relationship satisfaction was **consistently high**, regardless of antidepressant use.
       ![Finding 1 Results - Graph of Relationship Satisfaction by Antidepressants](/assets/RelationshipSatisfaction.png)
 2.  **Sexual Satisfaction**
-    -   Women on antidepressants reported higher sexual satisfaction than men on antidepressants (*p* \< .0001).
-    -   Men on antidepressants had lower sexual satisfaction compared to men not on antidepressants (*p* = .0002).
+    -   **Women** on antidepressants reported **higher sexual satisfaction** than men on antidepressants (*p* \< .0001).
+    -   **Men** on antidepressants had **lower sexual satisfaction** compared to men not on antidepressants (*p* = .0002).
       ![Finding 2 Results - Graph of Satisfaction by Antidepressants](/assets/SexualSatisfaction.png)
 3.  **Commitment**
-    -   Women on antidepressants were more committed than men on antidepressants (*p* \< .001).
-    -   Men on antidepressants were less committed than men not on antidepressants (*p* \< .001).
+    -   **Women** on antidepressants were **more committed** than men on antidepressants (*p* \< .001).
+    -   **Men** on antidepressants were **less committed** than men not on antidepressants (*p* \< .001).
     ![Finding 3 Results - Graph of Commitment by Antidepressants](/assets/Commitment.png)
 ------------------------------------------------------------------------
 
@@ -93,14 +93,14 @@ Claims are based on the results and the nature of the data, and not overly gener
 
 ### **Why These Findings Matter:**
 
-1.  **Sexual Dysfunction:** Results for sexual satisfaction complements research that a larger percentage of men experience sexual dysfunction than women. (Higgins, et al., 2010)
+1.  **Sexual Dysfunction:** Results for sexual satisfaction complements research that **a larger percentage of men experience sexual dysfunction** than women. (Higgins, et al., 2010)
 2.  **Emotional Dysfunction:** Results for relationship satisfaction and
-commitment follows previous findings that men experience more
-emotional blunting than women which may contribute to reduced
+commitment follows previous findings that **men experience more
+emotional blunting than women** which may contribute to reduced
 engagement or connection in relationships. (Goodwin, et al. 2017)
 3.  **Protective Factors:** Antidepressant use did not significantly affect
-women’s scores. Research indicates that women self-report low
-perceived distress with both sexual dysfunction and emotional blunting,
+women’s scores. Research indicates that **women self-report low
+perceived distress with both sexual dysfunction and emotional blunting**,
 raising questions about potential gender differences / protective factors
 in navigating these side effects. (Lorenz, et al., 2019; Goodwin, et al., 2017)
 

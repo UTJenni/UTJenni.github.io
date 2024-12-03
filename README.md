@@ -32,14 +32,8 @@ critical markers of relational health, yet their intersections remain underexplo
 
 ### **Approach**
 
-Basic description of the data: what dataset is used, sample size, 
-how the data is collected in the original study. 
-Clearly state how the analytic method and variables used match the question.
-
 **Source:** National Couples’ Health and Time Study (NCHTS), 2020–2021 (ICPSR Study 38417) (Dush et al., 2024).
-
 **Sample Size:** 3,508 U.S. adults.
-
 **Demographics:**  
   - **Gender:** 49% Men, 47% Women, 4% Other.
   - **Antidepressant Use:** 19% reported taking antidepressants.
@@ -87,6 +81,7 @@ Women, whether on antidepressants or not, had high levels of satisfaction and co
     -   Women on antidepressants were more committed than men on antidepressants (*p* \< .001).
     -   Men on antidepressants were less committed than men not on antidepressants (*p* \< .001).
 
+!(Finding 3 Results - Graph of Commitment by Antidepressants)[assets/Commitment.png]
 ------------------------------------------------------------------------
 
 ## **Impact**

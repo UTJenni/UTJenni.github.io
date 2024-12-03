@@ -1,25 +1,33 @@
+---
+permalink: /
+title: "Portfolio"
+---
+
+Welcome to my portfolio page! 
+
 --------------------------------------------------------------------------------
 
 # **Research Project: Gender, Antidepressant Use, and Relationship Outcomes**
-How Does Gender and Antidepressant Use Impact Relationships, Sex, and Commitment?
+### How Does Gender and Antidepressant Use Impact Relationships, Sex, and Commitment?
 
 --------------------------------------------------------------------------------
 
 ## **Objectives**
 
-The project goal/purpose is clearly defined. The research question is clearly stated. 
-It is clear to see what the gap is or why the question is meaningful.
-
 The goal of this project is to explore how gender and antidepressant use influence 
 relationship satisfaction, sexual satisfaction, and commitment. These factors are 
 critical markers of relational health, yet their intersections remain underexplored.
 
-### **Why This Matters:**
+### **Why This Matters**
 
--   **Relational Health:** Relationship satisfaction, sexual satisfaction, and commitment are foundational to relational well-being.
--   **Impact of Antidepressants:** Previous studies show antidepressants can affect sexual and relationship satisfaction (Baldwin & Foong, 2018; Meyer, 2007).
--   **Gender Differences:** Research indicates that antidepressants may impact genders differently (Keers & Aitchison, 2010).
--   **Research Gap:** Little is known about the intersection of gender and antidepressant use on these relational factors.
+#### Relational Health
+Relationship satisfaction, sexual satisfaction, and commitment are foundational to relational well-being.
+#### Impact of Antidepressants
+Previous studies show antidepressants can affect sexual and relationship satisfaction (Baldwin & Foong, 2018; Meyer, 2007).
+#### Gender Differences
+Research indicates that antidepressants may impact genders differently (Keers & Aitchison, 2010).
+#### Research Gap
+Little is known about the intersection of gender and antidepressant use on these relational factors.
 
 ------------------------------------------------------------------------
 

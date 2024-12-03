@@ -20,17 +20,11 @@ critical markers of relational health, yet their intersections remain underexplo
 
 ### **Why This Matters**
 
-**Relational Health**
-Relationship satisfaction, sexual satisfaction, and commitment are foundational to relational well-being.
+**Relational Health:** Relationship satisfaction, sexual satisfaction, and commitment are foundational to relational well-being.
 
-**Impact of Antidepressants**
-Previous studies show antidepressants can affect sexual and relationship satisfaction[^1].
-
-**Gender Differences**
-Research indicates that antidepressants may impact genders differently (Keers & Aitchison, 2010).
-
-**Research Gap**
-Little is known about the intersection of gender and antidepressant use on these relational factors.
+**Impact of Antidepressants:** Previous studies show antidepressants can affect sexual and relationship satisfaction(Baldwin & Foong, 2018; Meyer 2007).
+**Gender Differences:** Research indicates that antidepressants may impact genders differently (Keers & Aitchison, 2010).
+**Research Gap:** Little is known about the intersection of gender and antidepressant use on these relational factors.
 
 ------------------------------------------------------------------------
 

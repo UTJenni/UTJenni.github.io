@@ -3,11 +3,11 @@ permalink: /
 title: "Portfolio"
 ---
 
-Welcome to my portfolio page! 
+Welcome to my portfolio page! 👋
 
 --------------------------------------------------------------------------------
 
-# **Research Project: Gender, Antidepressant Use, and Relationship Outcomes**
+# **Research Projects: Gender, Antidepressant Use, and Relationship Outcomes**
 ### How Does Gender and Antidepressant Use Impact Relationships, Sex, and Commitment?
 
 --------------------------------------------------------------------------------
@@ -20,13 +20,13 @@ critical markers of relational health, yet their intersections remain underexplo
 
 ### **Why This Matters**
 
-#### Relational Health
+#### Relational Health\
 Relationship satisfaction, sexual satisfaction, and commitment are foundational to relational well-being.
-#### Impact of Antidepressants
-Previous studies show antidepressants can affect sexual and relationship satisfaction (Baldwin & Foong, 2018; Meyer, 2007).
-#### Gender Differences
+#### Impact of Antidepressants\
+Previous studies show antidepressants can affect sexual and relationship satisfaction[^1].
+#### Gender Differences\
 Research indicates that antidepressants may impact genders differently (Keers & Aitchison, 2010).
-#### Research Gap
+#### Research Gap\
 Little is known about the intersection of gender and antidepressant use on these relational factors.
 
 ------------------------------------------------------------------------
@@ -37,7 +37,7 @@ Basic description of the data: what dataset is used, sample size,
 how the data is collected in the original study. 
 Clearly state how the analytic method and variables used match the question.
 
--   **Source:** National Couples’ Health and Time Study (NCHTS), 2020–2021 (ICPSR Study 38417; Dush et al., 2024).
+-   **Source:** National Couples’ Health and Time Study (NCHTS), 2020–2021 (ICPSR Study 38417)[^2].
 -   **Sample Size:** 3,508 U.S. adults.
 -   **Demographics:**
     -   **Gender:** 49% Men, 47% Women, 4% Other.
@@ -133,11 +133,11 @@ in navigating these side effects. (Lorenz, et al., 2019; Goodwin, et al., 2017)
 
 ## **Citations**
 
--   Baldwin, D. S., & Foong, T. (2018). The impact of antidepressants on sexual function. *Journal of Clinical Psychopharmacology*.
--   Dush, C. M., et al. (2024). National Couples’ Health and Time Study (NCHTS), ICPSR Study 38417.
--   Higgins, A., et al. (2010). Sexual dysfunction in antidepressant use: Gender differences in prevalence. *Psychological Medicine*.
--   Keers, R., & Aitchison, K. J. (2010). Gender differences in antidepressant response. *Journal of Affective Disorders*.
--   Meyer, D. L. (2007). Antidepressants and relationship satisfaction. *Journal of Family Psychology*.
+-   [^1]Baldwin, D. S., & Foong, T. (2018). The impact of antidepressants on sexual function. *Journal of Clinical Psychopharmacology*.
+-   [^2]Dush, C. M., et al. (2024). National Couples’ Health and Time Study (NCHTS), ICPSR Study 38417.
+-   [^3]Higgins, A., et al. (2010). Sexual dysfunction in antidepressant use: Gender differences in prevalence. *Psychological Medicine*.
+-   [^4]Keers, R., & Aitchison, K. J. (2010). Gender differences in antidepressant response. *Journal of Affective Disorders*.
+-   [^5]Meyer, D. L. (2007). Antidepressants and relationship satisfaction. *Journal of Family Psychology*.
 
 ------------------------------------------------------------------------
 

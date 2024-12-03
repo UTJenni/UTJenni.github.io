@@ -74,14 +74,15 @@ Women, whether on antidepressants or not, had high levels of satisfaction and co
 1.  **Relationship Satisfaction**
     -   Men on antidepressants reported lower relationship satisfaction compared to men not on antidepressants (*p* = .049).
     -   Women’s relationship satisfaction was consistently high, regardless of antidepressant use.
+      ![Finding 1 Results - Graph of Relationship Satisfaction by Antidepressants](/assets/RelationshipSatisfaction.png)
 2.  **Sexual Satisfaction**
     -   Women on antidepressants reported higher sexual satisfaction than men on antidepressants (*p* \< .0001).
     -   Men on antidepressants had lower sexual satisfaction compared to men not on antidepressants (*p* = .0002).
+      ![Finding 2 Results - Graph of Satisfaction by Antidepressants](/assets/SexualSatisfaction.png)
 3.  **Commitment**
     -   Women on antidepressants were more committed than men on antidepressants (*p* \< .001).
     -   Men on antidepressants were less committed than men not on antidepressants (*p* \< .001).
-
-!(Finding 3 Results - Graph of Commitment by Antidepressants)[assets/Commitment.png]
+    ![Finding 3 Results - Graph of Commitment by Antidepressants](/assets/Commitment.png)
 ------------------------------------------------------------------------
 
 ## **Impact**
@@ -129,11 +130,11 @@ in navigating these side effects. (Lorenz, et al., 2019; Goodwin, et al., 2017)
 
 ## **Citations**
 
--   [^1]Baldwin, D. S., & Foong, T. (2018). The impact of antidepressants on sexual function. *Journal of Clinical Psychopharmacology*.
--   [^2]Dush, C. M., et al. (2024). National Couples’ Health and Time Study (NCHTS), ICPSR Study 38417.
--   [^3]Higgins, A., et al. (2010). Sexual dysfunction in antidepressant use: Gender differences in prevalence. *Psychological Medicine*.
--   [^4]Keers, R., & Aitchison, K. J. (2010). Gender differences in antidepressant response. *Journal of Affective Disorders*.
--   [^5]Meyer, D. L. (2007). Antidepressants and relationship satisfaction. *Journal of Family Psychology*.
+-   Baldwin, D. S., & Foong, T. (2018). The impact of antidepressants on sexual function. *Journal of Clinical Psychopharmacology*.
+-   Dush, C. M., et al. (2024). National Couples’ Health and Time Study (NCHTS), ICPSR Study 38417.
+-   Higgins, A., et al. (2010). Sexual dysfunction in antidepressant use: Gender differences in prevalence. *Psychological Medicine*.
+-   Keers, R., & Aitchison, K. J. (2010). Gender differences in antidepressant response. *Journal of Affective Disorders*.
+-   Meyer, D. L. (2007). Antidepressants and relationship satisfaction. *Journal of Family Psychology*.
 
 ------------------------------------------------------------------------
 

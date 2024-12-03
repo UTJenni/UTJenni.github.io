@@ -87,10 +87,6 @@ Women, whether on antidepressants or not, had **high levels of satisfaction** an
 
 ## **Impact**
 
-Explain why this research is important, who it might benefit, 
-and how people in the applied setting might be able to use your findings.
-Claims are based on the results and the nature of the data, and not overly generalized.
-
 ### **Why These Findings Matter:**
 
 1.  **Sexual Dysfunction:** Results for sexual satisfaction complements research that **a larger percentage of men experience sexual dysfunction** than women. (Higgins, et al., 2010)
@@ -132,18 +128,12 @@ in navigating these side effects. (Lorenz, et al., 2019; Goodwin, et al., 2017)
 
 -   Baldwin, D. S., & Foong, T. (2018). The impact of antidepressants on sexual function. *Journal of Clinical Psychopharmacology*.
 -   Dush, C. M., et al. (2024). National Couples’ Health and Time Study (NCHTS), ICPSR Study 38417.
+-   Goodwin, et al., 2017
 -   Higgins, A., et al. (2010). Sexual dysfunction in antidepressant use: Gender differences in prevalence. *Psychological Medicine*.
 -   Keers, R., & Aitchison, K. J. (2010). Gender differences in antidepressant response. *Journal of Affective Disorders*.
+-   Lorenz, et al., 2019; 
 -   Meyer, D. L. (2007). Antidepressants and relationship satisfaction. *Journal of Family Psychology*.
 
 ------------------------------------------------------------------------
 
-Must attribute credits and hyperlink to the original dataset, hyperlink to your analytic codes 
-(e.g., your md or rmd). The overall presentation is digestible, professional, and concise. 
-No erroneous links or photos. The language is accessible and does not require expertise in psychology to understand. 
-No jargon is used (e.g., IV, DV, or moderator). 
-The only exception is mentioning the specific analysis like ANOVA or regression, 
-but your focus should be the purpose of the analysis (e.g., 
-I tested the relationship between A and B while taking into account C and D by using multiple regression) 
-rather than flexing those terms as fancy jargon.
-
+_ Thank you! _

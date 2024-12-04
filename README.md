@@ -74,14 +74,19 @@ Women, whether on antidepressants or not, had **high levels of satisfaction** an
 1.  **Relationship Satisfaction**
     -   **Men** on antidepressants **reported lower relationship satisfaction** compared to men not on antidepressants (*p* = .049).
     -   **Women’s** relationship satisfaction was **consistently high**, regardless of antidepressant use.
+    
       ![Finding 1 Results - Graph of Relationship Satisfaction by Antidepressants](/assets/RelationshipSatisfaction.png)
-2.  **Sexual Satisfaction**
+    
+3.  **Sexual Satisfaction**
     -   **Women** on antidepressants reported **higher sexual satisfaction** than men on antidepressants (*p* \< .0001).
     -   **Men** on antidepressants had **lower sexual satisfaction** compared to men not on antidepressants (*p* = .0002).
+      
       ![Finding 2 Results - Graph of Satisfaction by Antidepressants](/assets/SexualSatisfaction.png)
-3.  **Commitment**
+    
+5.  **Commitment**
     -   **Women** on antidepressants were **more committed** than men on antidepressants (*p* \< .001).
     -   **Men** on antidepressants were **less committed** than men not on antidepressants (*p* \< .001).
+      
     ![Finding 3 Results - Graph of Commitment by Antidepressants](/assets/Commitment.png)
 
 ------------------------------------------------------------------------

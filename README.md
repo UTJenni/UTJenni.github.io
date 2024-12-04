@@ -83,6 +83,7 @@ Women, whether on antidepressants or not, had **high levels of satisfaction** an
     -   **Women** on antidepressants were **more committed** than men on antidepressants (*p* \< .001).
     -   **Men** on antidepressants were **less committed** than men not on antidepressants (*p* \< .001).
     ![Finding 3 Results - Graph of Commitment by Antidepressants](/assets/Commitment.png)
+
 ------------------------------------------------------------------------
 
 ## **Impact**

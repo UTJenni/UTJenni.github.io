@@ -12,7 +12,7 @@ Welcome to my portfolio page! 👋
 
 --------------------------------------------------------------------------------
 
-### **Objectives**
+## **Objectives**
 
 The goal of this project is to explore how gender and antidepressant use influence 
 relationship satisfaction, sexual satisfaction, and commitment. These factors are 
@@ -30,7 +30,7 @@ critical markers of relational health, yet their intersections remain underexplo
 
 ------------------------------------------------------------------------
 
-### **Approach**
+## **Approach**
 
 **Source:** National Couples’ Health and Time Study (NCHTS), 2020–2021 (ICPSR Study 38417) (Dush et al., 2024).
 

@@ -143,4 +143,10 @@ Meyer, D. (2007). Selective Serotonin Reuptake Inhibitors and Their Effects on R
 
 ------------------------------------------------------------------------
 
-_ Thank you! _
+
+<p align="center">
+  <img src="/assets/POP.png" />
+  Thank you!
+</p>
+
+

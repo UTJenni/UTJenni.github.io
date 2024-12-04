@@ -22,7 +22,7 @@ critical markers of relational health, yet their intersections remain underexplo
 
 **Relational Health:** Relationship satisfaction, sexual satisfaction, and commitment are foundational to relational well-being.
 
-**Impact of Antidepressants:** Previous studies show antidepressants can affect sexual and relationship satisfaction(Baldwin & Foong, 2018; Meyer 2007).
+**Impact of Antidepressants:** Previous studies show antidepressants can affect sexual and relationship satisfaction (Baldwin & Foong, 2018; Meyer 2007).
 
 **Gender Differences:** Research indicates that antidepressants may impact genders differently (Keers & Aitchison, 2010).
 
@@ -87,7 +87,7 @@ Women, whether on antidepressants or not, had **high levels of satisfaction** an
 
 ## **Impact**
 
-### **Why These Findings Matter:**
+### **Why These Findings Matter**
 
 1.  **Sexual Dysfunction:** Results for sexual satisfaction complements research that **a larger percentage of men experience sexual dysfunction** than women. (Higgins, et al., 2010)
 2.  **Emotional Dysfunction:** Results for relationship satisfaction and
@@ -98,9 +98,9 @@ engagement or connection in relationships. (Goodwin, et al. 2017)
 women’s scores. Research indicates that **women self-report low
 perceived distress with both sexual dysfunction and emotional blunting**,
 raising questions about potential gender differences / protective factors
-in navigating these side effects. (Lorenz, et al., 2019; Goodwin, et al., 2017)
+in navigating these side effects. (Lorenz, et al., 2016; Goodwin, et al., 2017)
 
-### **Practical Applications:**
+### **Practical Applications**
 
 -   Clinicians could use these findings to guide conversations with patients about the relational side effects of antidepressants, especially for men.
 -   Couples therapy could address challenges like emotional blunting and sexual dysfunction to mitigate relational impacts.
@@ -124,15 +124,22 @@ in navigating these side effects. (Lorenz, et al., 2019; Goodwin, et al., 2017)
 
 ------------------------------------------------------------------------
 
-## **Citations**
+## **References**
 
--   Baldwin, D. S., & Foong, T. (2018). The impact of antidepressants on sexual function. *Journal of Clinical Psychopharmacology*.
--   Dush, C. M., et al. (2024). National Couples’ Health and Time Study (NCHTS), ICPSR Study 38417.
--   Goodwin, et al., 2017
--   Higgins, A., et al. (2010). Sexual dysfunction in antidepressant use: Gender differences in prevalence. *Psychological Medicine*.
--   Keers, R., & Aitchison, K. J. (2010). Gender differences in antidepressant response. *Journal of Affective Disorders*.
--   Lorenz, et al., 2019; 
--   Meyer, D. L. (2007). Antidepressants and relationship satisfaction. *Journal of Family Psychology*.
+Baldwin, D. S., Manson, C., & Nowak, M. (2015). Impact of Antidepressant Drugs on Sexual Function and Satisfaction. *CNS Drugs, 29*(11), 905–913. https://doi.org/10.1007/s40263-015-0294-3
+
+Kamp Dush, C. M., & Manning, W. D. (2024) National Couples’ Health and Time Study (NCHAT), United States, 2020-2021. *Inter-university Consortium for Political and Social Research*. https://doi.org/10.3886/ICPSR38417.v7
+
+Goodwin, G. M., Price, J., De Bodinat, C., & Laredo, J. (2017). Emotional blunting with antidepressant treatments: a survey among depressed patients. *Journal of Affective Disorders, 221*, 31–35. https://doi.org/10.1016/j.jad.2017.05.048
+
+Higgins, A., Nash, M., & Lynch, A. M. (2010). Antidepressant-associated sexual dysfunction: Impact, effects, and treatment. *Drug, Healthcare and Patient Safety, 2*(1), 141–150. https://doi.org/10.2147/DHPS.S7634
+
+Keers, R., & Aitchison, K. J. (2010). Gender differences in antidepressant drug response. *International Review of Psychiatry (Abingdon, England), 22*(5), 485–500. https://doi.org/10.3109/09540261.2010.496448
+
+Lorenz, T., Rullo, J., & Faubion, S. (2016). Antidepressant-Induced Female Sexual Dysfunction. *Mayo Clinic Proceedings, 91*(9), 1280–1286. https://doi.org/10.1016/j.mayocp.2016.04.033
+
+Meyer, D. (2007). Selective Serotonin Reuptake Inhibitors and Their Effects on Relationship Satisfaction. *The Family Journal (Alexandria, Va.), 15*(4), 392–397. https://doi.org/10.1177/1066480707305470
+
 
 ------------------------------------------------------------------------
 
